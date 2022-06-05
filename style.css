@@ -1,0 +1,13 @@
+*{
+    background-color: #F5EEDC;
+}
+.btn {
+    padding: 10px;
+}
+.dropdown {
+    text-decoration: none;
+}
+/* also apply .offcanvas-start 
+.offcanvas-end
+.offcanvas-top
+.offcanvas-bottom */
